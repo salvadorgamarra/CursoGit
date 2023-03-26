@@ -1,2 +1,3 @@
 function(){
+let var1 = "Agregando variable al script3";
 }
